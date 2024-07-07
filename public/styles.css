@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  width: 300px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+}
+
+input, button {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #f4f4f4;
+  margin: 5px 0;
+  padding: 10px;
+}
